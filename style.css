@@ -33,6 +33,10 @@
     font-style:normal;
 }
 
+p{
+    font-family: "ZenMaru";
+}
+
 body{
     position:relative;
     font-family: "ZenMaru";
@@ -64,6 +68,7 @@ body{
     align-items: center;
     width:100%;
     top: 0;
+    left: 0;
     position: fixed;
     background: rgba(255,255,255,1.0);
     justify-content: space-between;
