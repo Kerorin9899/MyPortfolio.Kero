@@ -224,6 +224,10 @@ ul{
         display: none;
     }
 
+    .container{
+        height: 70px;
+    }
+
     .area_nav_header_humberger{
         display: flex;
         width: auto;
