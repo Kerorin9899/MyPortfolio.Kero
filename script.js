@@ -14,4 +14,8 @@ $(function(){
 	});
 	
 	_window.trigger('scroll');	
+	
+	$(".hum").click(function () {
+		$(this).toggleClass('active');
+	});
 });
